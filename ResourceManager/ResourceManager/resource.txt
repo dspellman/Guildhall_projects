@@ -1,0 +1,15 @@
+A B
+A E
+B C
+C David
+E F
+G H
+H C
+I J
+I B
+J K
+L C
+bombs ore
+bullets ore
+handgun bullets
+turret bullets
