@@ -1,0 +1,59 @@
+<Definitions>
+  <BlockTemplate name="OakTree" >
+    <Block offset=" 0, 0, 0" 	block="OAKLOG" />
+    <Block offset=" 0, 0, 1" 	block="OAKLOG" />
+    <Block offset=" 0, 0, 2" 	block="OAKLOG" />
+    <Block offset=" 0, 0, 3" 	block="OAKLOG" />
+    <Block offset=" 0, 0, 4" 	block="OAKLOG" />
+    <Block offset=" 1,-1, 2" 	block="LEAVES" />
+    <Block offset=" 1, 1, 2" 	block="LEAVES" />
+    <Block offset="-1, 0, 2" 	block="LEAVES" />
+    <Block offset=" 0, 1, 2" 	block="LEAVES" />
+    <Block offset="-1,-1, 2"  	block="LEAVES" />
+    <Block offset=" 1,-1, 3" 	block="LEAVES" />
+    <Block offset=" 1, 0, 3" 	block="LEAVES" />
+    <Block offset=" 0,-1, 3" 	block="LEAVES" />
+    <Block offset=" 1,-1, 3" 	block="LEAVES" />
+    <Block offset="-1, 1, 3" 	block="LEAVES" />
+    <Block offset=" 1, 0, 4" 	block="LEAVES" />
+    <Block offset=" 0, 1, 4" 	block="LEAVES" />
+    <Block offset="-1, 0, 4" 	block="LEAVES" />
+    <Block offset=" 0,-1, 4" 	block="LEAVES" />
+    <Block offset=" 0, 0, 5" 	block="LEAVES" />
+  </BlockTemplate>
+  <BlockTemplate name="SpruceTree" >
+    <Block offset=" 0, 0, 0" 	block="SPRUCELOG" />
+    <Block offset=" 0, 0, 1" 	block="SPRUCELOG" />
+    <Block offset=" 0, 0, 2" 	block="SPRUCELOG" />
+    <Block offset=" 0, 0, 3" 	block="SPRUCELOG" />
+    <Block offset=" 0, 0, 4" 	block="SPRUCELOG" />
+    <Block offset=" 1,-1, 2" 	block="SPRUCELEAVES" />
+    <Block offset=" 1, 1, 2" 	block="SPRUCELEAVES" />
+    <Block offset="-1, 0, 2" 	block="SPRUCELEAVES" />
+    <Block offset=" 0, 1, 2" 	block="SPRUCELEAVES" />
+    <Block offset="-1,-1, 2"  	block="SPRUCELEAVES" />
+    <Block offset=" 1,-1, 3" 	block="SPRUCELEAVES" />
+    <Block offset=" 1, 0, 3" 	block="SPRUCELEAVES" />
+    <Block offset=" 0,-1, 3" 	block="SPRUCELEAVES" />
+    <Block offset=" 1,-1, 3" 	block="SPRUCELEAVES" />
+    <Block offset="-1, 1, 3" 	block="SPRUCELEAVES" />
+    <Block offset=" 1, 0, 4" 	block="SPRUCELEAVES" />
+    <Block offset=" 0, 1, 4" 	block="SPRUCELEAVES" />
+    <Block offset="-1, 0, 4" 	block="SPRUCELEAVES" />
+    <Block offset=" 0,-1, 4" 	block="SPRUCELEAVES" />
+    <Block offset=" 0, 0, 5" 	block="SPRUCELEAVES" />
+    <Block offset=" 0, 0, 6" 	block="SPRUCELEAVES" />
+  </BlockTemplate>
+  <BlockTemplate name="Cactus" >
+    <Block offset=" 0, 0, 0" 	block="CACTUS" />
+    <Block offset=" 0, 0, 1" 	block="CACTUS" />
+    <Block offset=" 0, 0, 2" 	block="CACTUS" />
+    <Block offset=" 0, 0, 3" 	block="CACTUS" />
+    <Block offset=" 0, 0, 4" 	block="CACTUS" />
+    <Block offset=" 0, 0, 5" 	block="CACTUS" />
+    <Block offset=" 0, 0, 6" 	block="CACTUS" />
+    <Block offset=" 0, 1, 3" 	block="CACTUS" />
+    <Block offset=" 0, 2, 4" 	block="CACTUS" />
+    <Block offset=" 0, 2, 5" 	block="CACTUS" />
+  </BlockTemplate>
+</Definitions>

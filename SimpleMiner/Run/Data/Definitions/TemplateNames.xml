@@ -1,0 +1,12 @@
+<TemplateNames
+	house = "Data/Definitions/house.3dsprite"
+	forge = "Data/Definitions/forge.3dsprite"
+	church = "Data/Definitions/church.3dsprite"
+	hut = "Data/Definitions/hut.3dsprite"
+	tower = "Data/Definitions/tower.3dsprite"
+	shop = "Data/Definitions/shop.3dsprite"
+	well = "Data/Definitions/well.3dsprite"
+	oaktree = "Data/Definitions/oaktree.3dsprite"
+	pinetree = "Data/Definitions/pinetree.3dsprite"
+	swamptree = "Data/Definitions/swamptree.3dsprite"
+/>

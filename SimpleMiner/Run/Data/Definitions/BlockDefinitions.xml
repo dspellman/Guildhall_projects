@@ -1,0 +1,31 @@
+<Definitions>
+  <EntityDefinition name="air"		    type="0"	visible="false" solid="false" opaque="false"  light="0"   topSprite="0,0"    sideSprite="0,0"    bottomSprite="0,0"    />
+  <EntityDefinition name="grass"	    type="1"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="32,33"  sideSprite="33,33"  bottomSprite="32,34"  />
+  <EntityDefinition name="dirt"		    type="2"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="32,34"  sideSprite="32,34"  bottomSprite="32,34"  />
+  <EntityDefinition name="sand"		    type="3"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="34,34"  sideSprite="34,34"  bottomSprite="34,34"  />
+  <EntityDefinition name="stone"	    type="4"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="33,32"  sideSprite="33,32"  bottomSprite="33,32"  />
+  <EntityDefinition name="bricks"	    type="5"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="34,32"  sideSprite="34,32"  bottomSprite="34,32"  />
+  <EntityDefinition name="glowstone"  	type="6"	visible="true"  solid="true"  opaque="true"   light="15"  topSprite="46,34"  sideSprite="46,34"  bottomSprite="46,34"  />
+  <EntityDefinition name="oaklog"	    type="7"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="38,33"  sideSprite="36,33"  bottomSprite="38,33"  />
+  <EntityDefinition name="leaves"	    type="8"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="32,35"  sideSprite="32,35"  bottomSprite="32,35"  />
+  <EntityDefinition name="water"	    type="9"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="32,44"  sideSprite="32,44"  bottomSprite="32,44"  />
+  <EntityDefinition name="ice"		    type="10"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="36,35"  sideSprite="36,35"  bottomSprite="36,35"  />
+  <EntityDefinition name="coal"		    type="11"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="63,34"  sideSprite="63,34"  bottomSprite="63,34"  />
+  <EntityDefinition name="iron"		    type="12"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="63,35"  sideSprite="63,35"  bottomSprite="63,35"  />
+  <EntityDefinition name="gold"		    type="13"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="63,36"  sideSprite="63,36"  bottomSprite="63,36"  />
+  <EntityDefinition name="diamond"	  	type="14"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="63,37"  sideSprite="63,37"  bottomSprite="63,37"  />
+  <EntityDefinition name="Cactus"	  	type="15"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="39,36"  sideSprite="37,36"  bottomSprite="38,36"  />
+  <EntityDefinition name="SpruceLog"	type="16"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="38,33"  sideSprite="37,33"  bottomSprite="38,33"  />
+  <EntityDefinition name="SpruceLeaves"	type="17"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="34,35"  sideSprite="34,35"  bottomSprite="34,35"  />
+  <EntityDefinition name="oakplanks"	type="18"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="39,33"  sideSprite="39,33"  bottomSprite="39,33"  />
+  <EntityDefinition name="redbricks"	type="19"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="57,32"  sideSprite="57,32"  bottomSprite="57,32"  />
+  <EntityDefinition name="irregular"	type="20"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="42,32"  sideSprite="42,32"  bottomSprite="42,32"  />
+  <EntityDefinition name="roofplanks"	type="21"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="40,33"  sideSprite="40,33"  bottomSprite="40,33"  />
+  <EntityDefinition name="sandstone"	type="22"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="52,45"  sideSprite="52,45"  bottomSprite="52,45"  />
+  <EntityDefinition name="whitebricks"	type="23"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="57,33"  sideSprite="57,33"  bottomSprite="57,33"  />
+  <EntityDefinition name="redsandstone"	type="24"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="41,45"  sideSprite="41,45"  bottomSprite="41,45"  />
+  <EntityDefinition name="bluestone"	type="25"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="63,45"  sideSprite="63,45"  bottomSprite="63,45"  />
+  <EntityDefinition name="spruceplanks"	type="25"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="41,33"  sideSprite="41,33"  bottomSprite="41,33"  />
+  <EntityDefinition name="swamplog"		type="26"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="38,33"  sideSprite="34,33"  bottomSprite="38,33"  />
+  <EntityDefinition name="swampleaves"	type="27"	visible="true"  solid="true"  opaque="true"   light="0"   topSprite="37,37"  sideSprite="37,37"  bottomSprite="37,37"  />
+</Definitions>

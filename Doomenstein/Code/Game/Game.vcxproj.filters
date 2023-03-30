@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Framework">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Gameplay">
+      <UniqueIdentifier>{0e292383-d502-48b1-9b93-d2c0309a54f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actors">
+      <UniqueIdentifier>{e6775fec-4c63-43d6-a7b4-d303e1f0a3a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main_Windows.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCommon.cpp">
+      <Filter>Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="Line3D.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="MapDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="TileDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMaterialDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="TileSetDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="ActorUID.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="SpawnInfo.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="ActorDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="WeaponDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Actors</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteAnimationGroupDefinition.cpp">
+      <Filter>Gameplay</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCommon.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineBuildPreferences.hpp">
+      <Filter>Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Line3D.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="MapDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="TileDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMaterialDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="TileSetDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Actor.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="ActorUID.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="SpawnInfo.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="ActorDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.hpp">
+      <Filter>Actors</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteAnimationGroupDefinition.hpp">
+      <Filter>Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

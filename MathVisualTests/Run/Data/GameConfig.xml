@@ -1,0 +1,4 @@
+<GameConfig
+	CONSOLE_PRINT_LINES = "40"
+	CONSOLE_FONT = "Data/Fonts/MyFixedFont"
+/>
